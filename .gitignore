@@ -4,6 +4,3 @@ backend/.env
 login.txt
 
 node_modules
-dist
-dist-ssr
-*.local
