@@ -1,0 +1,4 @@
+backend/.env.example
+backend/.env
+.claude/settings.local.json
+login.txt
